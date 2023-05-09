@@ -1,6 +1,6 @@
 ﻿namespace Bolao.Models
 {
-    public class JogadorBolao
+    public class JogadorBolao : Usuario
     {
 
     }

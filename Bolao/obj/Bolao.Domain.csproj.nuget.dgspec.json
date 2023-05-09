@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ivand\\source\\repos\\Bolao\\Bolao\\Bolao.csproj": {}
+    "C:\\Users\\ivand\\source\\repos\\Bolao\\Bolao\\Bolao.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ivand\\source\\repos\\Bolao\\Bolao\\Bolao.csproj": {
+    "C:\\Users\\ivand\\source\\repos\\Bolao\\Bolao\\Bolao.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ivand\\source\\repos\\Bolao\\Bolao\\Bolao.csproj",
-        "projectName": "Bolao",
-        "projectPath": "C:\\Users\\ivand\\source\\repos\\Bolao\\Bolao\\Bolao.csproj",
+        "projectUniqueName": "C:\\Users\\ivand\\source\\repos\\Bolao\\Bolao\\Bolao.Domain.csproj",
+        "projectName": "Bolao.Domain",
+        "projectPath": "C:\\Users\\ivand\\source\\repos\\Bolao\\Bolao\\Bolao.Domain.csproj",
         "packagesPath": "C:\\Users\\ivand\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\ivand\\source\\repos\\Bolao\\Bolao\\obj\\",
         "projectStyle": "PackageReference",
